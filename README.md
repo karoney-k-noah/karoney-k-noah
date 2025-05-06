@@ -5,12 +5,6 @@
    <a href="#">
        <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003f6a&height=120&section=header"/>
    </a>
-   <h3 align='left'>
-    Hi there 👋 I'm Karoney
-   </h3>
-   <p align='left'>
-    A Full-stack Web | Software Developer
-   </p>
    <br>
 
    <p align='left'>
