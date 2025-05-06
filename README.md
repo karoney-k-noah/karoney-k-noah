@@ -89,8 +89,8 @@
 [![Karoney's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=karoney-k-noah&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
    
    <a href="#">
-       <!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003f6a&height=120&section=footer"/>-->
-       <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+       <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003f6a&height=120&section=footer"/>
+       <!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>-->
    </a> 
 </div>
 
