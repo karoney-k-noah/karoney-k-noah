@@ -36,7 +36,7 @@
   </h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=FFFF00)
-![Java](https://img.shields.io/badge/java-2327ff?logo=java&logoColor=white&color=FF8000)
+![Java](https://img.shields.io/badge/java-%2327ff.svg?logo=openjdk&logoColor=white&color=FF8000)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white)
 ![GNU Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&logoWidth=25&)
@@ -44,7 +44,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)
 
-![Java](https://img.shields.io/badge/java-%2327ff.svg?logo=openjdk&logoColor=white)    
+    
    <h3 align='left'>
     🛠️ Framework and Libraries
    </h3>
