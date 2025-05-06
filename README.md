@@ -5,9 +5,9 @@
    <a href="#">
        <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=120&section=header"/>
    </a>
-   <h1 align='left'>
+   <h4 align='left'>
     Hi there 👋 I'm Karoney
-   </h1>
+   </h4>
    <p align='left'>
     A Full-stack Software Developer and a Network Technician
    </p>
@@ -18,41 +18,54 @@
 
    </p>
 
-   <h1 align='left'>
+   <h4 align='left'>
     Skills
-   </h1>
+   </h4>
 
-  <h1 align='left'>
+  <h4 align='left'>
   Programing Languages:
-  </h1>
+  </h4>
+  <p align='left'>
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-   <h1 align='left'>
+   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+   ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
+   </p>
+   <h4 align='left'>
     Front End:
-   </h1>
+   </h4>
+
+   <p align='left'>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<h1 align='left'>
+  </p>
+
+<h4 align='left'>
  Front End  Libraries and FrameWorks:
-</h1>
+</h4>
+ <p align='left'>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-<h1 align='left'>
+  </p>
+
+<h4 align='left'>
   Backend End:
-</h1>
+</h4>
+
+ <p align='left'>
 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Sqlite](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white)
 
+</p>
   <!-- 
    <br>
    <br>
