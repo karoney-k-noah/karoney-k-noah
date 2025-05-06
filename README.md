@@ -35,15 +35,14 @@
   👨‍💻 Programing Languages:
   </h3>
 
-   ![C](https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white&)
-   ![C++](https://custom-icon-badges.herokuapp.com/badge/C++-CC0000.svg?logo=cpp2&logoColor=white&)
-   ![GNU Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&logoWidth=25&)
-   ![Java](https://img.shields.io/badge/java-%2327ff.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-   ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&)
+![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=FFFF00)
+![Java](https://img.shields.io/badge/java-007396?logo=java&logoColor=white&color=FF8000)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white)
+![GNU Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&logoWidth=25&)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=FFFF00&color=grey)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)
 
    
    <h3 align='left'>
@@ -59,7 +58,7 @@
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?logo=jquery&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?logo=opencv&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
-![React](https://img.shields.io/badge/-React-000000?logo=react&logoColor=61DAFB&style=flat-square)
+![React](https://img.shields.io/badge/-React-000000?logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 <h3 align='left'>
   ☁️ Database and Cloud Hosting
