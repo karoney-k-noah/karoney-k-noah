@@ -9,7 +9,7 @@
     Hi there 👋 I'm Karoney
    </h3>
    <p align='left'>
-    A Full-stack Software Developer and a Network Technician
+    A Full-stack Web | Software Developer
    </p>
    <br>
 
