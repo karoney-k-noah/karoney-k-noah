@@ -44,17 +44,17 @@
    <br>
    <!-- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> -->
     
-   <img align="left" alt="Logo do JavaScript" height="30" width="40" title="JavaScript" src="./img/js.svg">
-   <img align="left" alt="Logo do HTML5" height="30" width="40" title="HTML5" src="./img/html5-original-wordmark.svg">
-   <img align="left" alt="Logo do CSS3" height="30" width="40" title="CSS3" src="./img/css3-original-wordmark.svg">
-   <img align="left" alt="Logo do Bootstrap" height="30" width="40" title="Bootstrap" src="./img/bootstrap-original-wordmark.svg">
-   <img align="left" alt="Logo do Python" height="30" width="40" title="Python" src="./img/python-original-wordmark.svg">
-   <img align="left" alt="Logo do C++" height="30" width="40" title="C++" src="./img/c++.svg">
-   <img align="left" alt="Logo do C" height="30" width="40" title="C" src="./img/c.svg">
-   <img align="left" alt="Logo do Java" height="30" width="40" title="Java" src="./img/java-original-wordmark.svg">
-   <img align="left" alt="Logo do PostgreSQL" height="30" width="40" title="PostgreSQL" src="./img/postgresql-original-wordmark.svg">
-   <img align="left" alt="Logo do MySQL" height="30" width="40" title="MySQL" src="./img/mysql-original-wordmark.svg">
-   <img align="left" alt="Logo do MySQL" height="30" width="40" title="MySQL" src="./img/sqlite-original-wordmark.svg">
+   <img align="left" alt="Logo do JavaScript" height="40" width="40" title="JavaScript" src="./img/js.svg">
+   <img align="left" alt="Logo do HTML5" height="40" width="40" title="HTML5" src="./img/html5-original-wordmark.svg">
+   <img align="left" alt="Logo do CSS3" height="40" width="40" title="CSS3" src="./img/css3-original-wordmark.svg">
+   <img align="left" alt="Logo do Bootstrap" height="40" width="40" title="Bootstrap" src="./img/bootstrap-original-wordmark.svg">
+   <img align="left" alt="Logo do Python" height="40" width="40" title="Python" src="./img/python-original-wordmark.svg">
+   <img align="left" alt="Logo do C++" height="40" width="40" title="C++" src="./img/c++.svg">
+   <img align="left" alt="Logo do C" height="40" width="40" title="C" src="./img/c.svg">
+   <img align="left" alt="Logo do Java" height="40" width="40" title="Java" src="./img/java-original-wordmark.svg">
+   <img align="left" alt="Logo do PostgreSQL" height="40" width="40" title="PostgreSQL" src="./img/postgresql-original-wordmark.svg">
+   <img align="left" alt="Logo do MySQL" height="40" width="40" title="MySQL" src="./img/mysql-original-wordmark.svg">
+   <img align="left" alt="Logo do MySQL" height="40" width="40" title="MySQL" src="./img/sqlite-original-wordmark.svg">
    <br>
    <br>
    <br>
