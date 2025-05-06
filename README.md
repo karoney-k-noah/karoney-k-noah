@@ -20,14 +20,16 @@
      <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=karoney-k-noah&show_icons=true&count_private=true&theme=dark" width="350"></a>
    </p>
 
-## Skills
+   <h1 align='left'>
+    Skills
+   </h1>
 
     
    <br>
    <br>
    <br>
    
-   <img align="left" alt="Logo do JavaScript" height="30" width="40" title="JavaScript" src="./img/js.svg">
+   <img align="left" alt="Logo do JavaScript" height="30" width="40" title="JavaScript" src="./img/js.svg"> Javascript
    <img align="left" alt="Logo do TypeScript" height="30" width="40" title="TypeScript" src="./img/ts.svg">
    <img align="left" alt="Logo do React" height="30" width="40" title="React" src="./img/react.svg">
    <img align="left" alt="Logo do Nodejs" height="30" width="40" title="Nodejs" src="./img/node.svg">
@@ -58,10 +60,6 @@
    <a href="#">
        <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=120&section=footer"/>
    </a> 
-
-   <a href="#">
-       <img title="Snake animation" src="./img/snake.svg">
-   </a>
 </div>
 
 
