@@ -5,22 +5,30 @@
    <a href="#">
        <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003f6a&height=120&section=header"/>
    </a>
-   <h4 align='left'>
+   <h3 align='left'>
     Hi there 👋 I'm Karoney
-   </h4>
+   </h3>
    <p align='left'>
     A Full-stack Software Developer and a Network Technician
    </p>
    <br>
 
    <p align='left'>
-     <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=karoney-k-noah&show_icons=true&count_private=true&theme=dark" width="350"></a>
-
+     <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=karoney-k-noah&show_icons=true&count_private=true&theme=dark" width="350">
+     </a>
+- Understands <code>OOP</code> well
+- <code>HTML</code>, <code>CSS</code>, <code>Bootstrap</code>: proficient
+- Strong skills in <code>JQuery</code>, <code>MySQL</code>, <code>PHP</code>
+- Excellent with the <code>Laravel</code> framework for web design
+- Proficient with <code>Git</code>
+- Learning the <code>Agile</code> mindset
+- Knowledge of <code>Vue.js</code>, <code>Vuex</code> and <code>Nuxt JS</code>
+- Experience in manual and <code>automated deployment</code>
    </p>
 
-  <h4 align='left'>
+  <h3 align='left'>
   Programing Languages:
-  </h4>
+  </h3>
   
 
    ![Java](https://img.shields.io/badge/java-%2327ff.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -28,9 +36,9 @@
    ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
    
-   <h4 align='left'>
+   <h3 align='left'>
     Front End:
-   </h4>
+   </h3>
 
    
 
@@ -41,17 +49,14 @@
 
   
 
-<h4 align='left'>
+<h3 align='left'>
   Backend End:
-</h4>
+</h3>
 
- 
-
-![Firebase](https://img.shields.io/badge/firebase-%23ED8B00.svg?style=for-the-badge&logo=firebase&logoColor=black)
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/Sqlite-000033?style=for-the-badge&logo=sqlite&logoColor=white)
-
+![Firebase](https://img.shields.io/badge/firebase-%23ED8B00.svg?style=for-the-badge&logo=firebase&logoColor=black)
   <!-- 
    <br>
    <br>
