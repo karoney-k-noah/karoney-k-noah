@@ -45,7 +45,7 @@
    <!-- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> -->
     
    <img align="left" alt="Logo do JavaScript" height="40" width="70" title="JavaScript" src="./img/js.svg">
-   <img align="left" alt="Logo do HTML5" height="40" width="70" title="HTML5" src="./img/html5-original-wordmark.svg">
+   <img align="left"  height="40" width="70" title="HTML5" alt="html5" src="./img/html5-original-wordmark.svg">
    <img align="left" alt="Logo do CSS3" height="40" width="70" title="CSS3" src="./img/css3-original-wordmark.svg">
    <img align="left" alt="Logo do Bootstrap" height="40" width="70" title="Bootstrap" src="./img/bootstrap-original-wordmark.svg">
    <img align="left" alt="Logo do Python" height="40" width="70" title="Python" src="./img/python-original-wordmark.svg">
