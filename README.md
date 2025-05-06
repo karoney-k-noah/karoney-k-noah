@@ -3,7 +3,7 @@
 
 <div style="display: inline_block" align="left">
    <a href="#">
-       <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
+       <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
    </a>
    <br>
 
@@ -89,7 +89,7 @@
 [![Karoney's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=karoney-k-noah&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
    
    <a href="#">
-       <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer"/>
+       <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer"/>
        <!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>-->
    </a> 
 </div>
