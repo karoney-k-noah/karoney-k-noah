@@ -47,7 +47,7 @@
 
  
 
-![Firebase](https://img.shields.io/badge/firebase-%23ED8B00.svg?style=for-the-badge&logo=firebaseColor=Black)
+![Firebase](https://img.shields.io/badge/firebase-%23ED8B00.svg?style=for-the-badge&logo=firebase&logoColor=black)
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/Sqlite-000033?style=for-the-badge&logo=sqlite&logoColor=white)
