@@ -37,8 +37,8 @@
    
    <br>
    <br>
-   
-   C++ Programming <img align="left" alt="Logo do C++" height="30" width="40" title="C++" src="./img/c++.svg">
+   <img src="./img/c++.svg" alt="C++ Logo" width="20" height="20"> C++ Programming
+   <img align="left" alt="Logo do C++" height="30" width="40" title="C++" src="./img/c++.svg">
    <img align="left" alt="Logo do C++" height="30" width="40" title="C++" src="./img/c++.svg">
    <img align="left" alt="Logo do C" height="30" width="40" title="C" src="./img/c.svg">
    <img align="left" alt="Logo do Java" height="30" width="40" title="Java" src="./img/java.svg">
