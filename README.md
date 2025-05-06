@@ -71,7 +71,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?logo=elasticsearch)
 ![Git](https://img.shields.io/badge/git-F05032?logo=git&logoColor=FFFFFF)
 ![GitHub](https://img.shields.io/badge/github-181717?logo=github&logoColor=FFFFFF)
 
