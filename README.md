@@ -1,11 +1,11 @@
-<h1 align='center'>
+<h1 align='left'>
   Hi there 👋 I'm Karoney 👨‍💻
 </h1>
 
-<p align='center'>
+<p align='left'>
   A Full-stack Software Developer and a Network Technician
 </p>
-<p align='center'>
+<p align='left'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alexandresanlim&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
