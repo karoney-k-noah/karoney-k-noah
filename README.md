@@ -14,8 +14,7 @@
    <br>
 
    <p align='left'>
-     <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=karoney-k-noah&show_icons=true&count_private=true&theme=dark" width="350">
-     </a>
+
 - Understands <code>OOP</code> well
 - <code>HTML</code>, <code>CSS</code>, <code>Bootstrap</code>: proficient
 - Strong skills in <code>JQuery</code>, <code>MySQL</code>, <code>PHP</code>
@@ -24,6 +23,11 @@
 - Learning the <code>Agile</code> mindset
 - Knowledge of <code>Vue.js</code>, <code>Vuex</code> and <code>Nuxt JS</code>
 - Experience in manual and <code>automated deployment</code>
+
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=karoney-k-noah&show_icons=true&count_private=true&theme=dark" width="350">
+     </a>
+
+
    </p>
 
   <h3 align='left'>
