@@ -35,15 +35,14 @@
   👨‍💻 Programing Languages:
   </h3>
 
-   ![C](https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white&style=flat-square)
-   ![C++](https://custom-icon-badges.herokuapp.com/badge/C++-CC0000.svg?logo=cpp2&logoColor=white&style=flat-square)
-   ![GNU Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&logoWidth=25&style=flat-square)
+   ![C](https://custom-icon-badges.herokuapp.com/badge/C-%2303599C.svg?logo=c-in-hexagon&logoColor=white&style=flat-square)
+   ![C++](https://custom-icon-badges.herokuapp.com/badge/C++-%23CC0000.svg?logo=cpp2&logoColor=white&style=flat-square)
+   ![GNU Bash](https://img.shields.io/badge/-Bash-%234EAA25?logo=gnubash&logoColor=white&logoWidth=25&style=flat-square)
    ![Java](https://img.shields.io/badge/java-%2327ff.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-   ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+   ![Python](https://img.shields.io/badge/Python-%23FFD43B?style=for-the-badge&logo=python&logoColor=blue)
    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=flat-square)
 
    
    <h3 align='left'>
