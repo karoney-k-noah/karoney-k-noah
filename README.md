@@ -36,7 +36,7 @@
   </h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=FFFF00)
-![Java](https://img.shields.io/badge/java-007396.svg?logo=java&logoColor=white&color=FF8000)
+![Java](https://img.shields.io/badge/java-2327ff?logo=java&logoColor=white&color=FF8000)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white)
 ![GNU Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&logoWidth=25&)
