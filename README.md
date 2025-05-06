@@ -35,14 +35,15 @@
   👨‍💻 Programing Languages:
   </h3>
 
-   ![C](https://custom-icon-badges.herokuapp.com/badge/C-%2303599C.svg?logo=c-in-hexagon&logoColor=white&style=flat-square)
-   ![C++](https://custom-icon-badges.herokuapp.com/badge/C++-%23CC0000.svg?logo=cpp2&logoColor=white&style=flat-square)
-   ![GNU Bash](https://img.shields.io/badge/-Bash-%234EAA25?logo=gnubash&logoColor=white&logoWidth=25&style=flat-square)
+   ![C](https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white&style=flat-square)
+   ![C++](https://custom-icon-badges.herokuapp.com/badge/C++-CC0000.svg?logo=cpp2&logoColor=white&style=flat-square)
+   ![GNU Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&logoWidth=25&style=flat-square)
    ![Java](https://img.shields.io/badge/java-%2327ff.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-   ![Python](https://img.shields.io/badge/Python-%23FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+   ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+   ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=flat-square)
 
    
    <h3 align='left'>
@@ -74,8 +75,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23ED8B00.svg?style=for-the-badge&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat-square) 
+![Firebase](https://img.shields.io/badge/-firebase-F05032?logo=firebase&logoColor=black&style=flat-square)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?logo=nginx&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)
