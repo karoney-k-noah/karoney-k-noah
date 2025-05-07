@@ -50,6 +50,8 @@
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 ![WireShark](https://img.shields.io/badge/Wireshark-1679A7?logo=Wireshark&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-000000?logo=ansible&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000000?logo=nmap&logoColor=white)
 
 <h3 align='left'>
   ☁️ Database and Cloud Hosting
