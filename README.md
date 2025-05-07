@@ -40,16 +40,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
 <h3 align='left'>
- ▤ System | Network | Administration
-</h3>
-
-![WireShark](https://img.shields.io/badge/Wireshark-1679A7?logo=Wireshark&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-000000?logo=ansible&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-23000?logo=nmap&logoColor=white)
-
-
-<h3 align='left'>
-  ☁️ Database | Cloud Hosting
+  ☁️ Database | Cloud Hosting | System | Network | Administration
 </h3>
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white)
@@ -59,6 +50,11 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)
+
+![WireShark](https://img.shields.io/badge/Wireshark-1679A7?logo=Wireshark&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-000000?logo=ansible&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-23000?logo=nmap&logoColor=white)
+![Netcat](https://img.shields.io/badge/Netcat-23000?logo=netcat&logoColor=white)
 
 <!-- Activity graph -->
 
