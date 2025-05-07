@@ -18,7 +18,7 @@
    </p>
 
   <h3 align='left'>
-  👨‍💻 Programing Languages:
+  {  } Programing Languages:
   </h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=FFFF00)
@@ -30,7 +30,7 @@
 
     
    <h3 align='left'>
-    🛠️ Framework | Libraries
+    🔧 Framework | Libraries
    </h3>
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white)
@@ -40,7 +40,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
 <h3 align='left'>
-  🗄️ System | Network | Administration
+ ▤ System | Network | Administration
 </h3>
 
 ![WireShark](https://img.shields.io/badge/Wireshark-1679A7?logo=Wireshark&logoColor=white)
@@ -57,7 +57,7 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white)
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)]
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)
 
 <!-- Activity graph -->
 
