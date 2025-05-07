@@ -44,13 +44,12 @@
    </h3>
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?logo=spring&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?logo=flask&logoColor=white&color=330066)
 ![React](https://img.shields.io/badge/-React-000000?logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![WireShark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
 
 <h3 align='left'>
   ☁️ Database and Cloud Hosting
