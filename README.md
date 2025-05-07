@@ -49,7 +49,7 @@
 ![React](https://img.shields.io/badge/-React-000000?logo=react&logoColor=61DAFB)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![WireShark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
+![WireShark](https://img.shields.io/badge/Wireshark-1679A7?logo=Wireshark&logoColor=white)
 
 <h3 align='left'>
   ☁️ Database and Cloud Hosting
