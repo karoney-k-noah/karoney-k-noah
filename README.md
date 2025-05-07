@@ -26,7 +26,7 @@
    </p>
 
   <h3 align='left'>
-  👨‍💻 Programing Languages:
+  🛠️ Programing Languages| Database | Cloud Hosting | Frameworks | Libraries:
   </h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=FFFF00)
@@ -37,29 +37,15 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=FFFF00&color=grey)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)
-
-    
-   <h3 align='left'>
-    🛠️ Framework and Libraries
-   </h3>
-
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?logo=spring&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?logo=flask&logoColor=white&color=330066)
 ![React](https://img.shields.io/badge/-React-000000?logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-
-<h3 align='left'>
-  ☁️ Database and Cloud Hosting
-</h3>
-
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-firebase-F05032?logo=firebase&logoColor=black&)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)
