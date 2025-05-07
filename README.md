@@ -45,8 +45,8 @@
 
 ![WireShark](https://img.shields.io/badge/Wireshark-1679A7?logo=Wireshark&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-000000?logo=ansible&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-000000?logo=nmap&logoColor=white)
-![Nmap](./img/nmap.svg "Nmap")
+![Nmap](https://img.shields.io/badge/Nmap-23000?logo=nmap&logoColor=white)
+
 
 <h3 align='left'>
   ☁️ Database | Cloud Hosting
