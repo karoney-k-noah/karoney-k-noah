@@ -59,9 +59,14 @@
 ![AWS][#AWS] 
 ![WireShark][#Wireshark] 
 ![Ansible][#Ansible]
-
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&labelColor=0F1689)
+![Argo CD](https://img.shields.io/badge/Argo-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColo
 <!-- Programming Languages -->
-<a href="#">
+
 
 [#Python]:        https://img.shields.io/badge/python-3670A0?logo=python&logoColor=FFFF00
 [#Java]:          https://img.shields.io/badge/java-%2327ff.svg?logo=openjdk&logoColor=white&color=FF8000
@@ -91,7 +96,9 @@
 [#AWS]:           https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white
 [#WireShark]:     https://img.shields.io/badge/Wireshark-1679A7?logo=Wireshark&logoColor=white
 [#Ansible]:       https://img.shields.io/badge/Ansible-000000?logo=ansible&logoColor=white
-</a>
+
+
+
 <!-- Activity graph -->
 
 [![Karoney's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=karoney-k-noah&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
