@@ -50,7 +50,16 @@
 
 <h3> 
 
-> ##### _Cloud Hosting | System | Network | Administration_ &nbsp; 
+> ##### _Databases_ &nbsp; 
+
+</h3>
+
+![MySQL][#MySQL] 
+![MongoDB][#MongoDB] 
+
+<h3> 
+
+> ##### _Cloud Services_ &nbsp; 
 
 </h3>
 
@@ -60,12 +69,20 @@
 ![Docker][#Docker] 
 ![Kubernetes][#Kubernetes] 
 ![AWS][#AWS] 
+![Apache][#Apache]
+
+<h3> 
+
+> ##### _System | Network | Administration_ &nbsp; 
+
+</h3>
+
 ![WireShark][#Wireshark] 
 ![Ansible][#Ansible]
 ![Terraform][#Terraform]
 ![Prometheus][#Prometheus]
 ![Grafana][#Grafana]
-![Apache][#Apache]
+
 
 <!-- Programming Languages -->
 
