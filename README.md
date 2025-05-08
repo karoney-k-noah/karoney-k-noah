@@ -97,6 +97,7 @@
 [#Grafana]:       https://img.shields.io/badge/grafana-%23F46800.svg?logo=grafana&logoColor=white
 [#Apache]:        https://img.shields.io/badge/apache-%23D42029.svg?logo=apache&logoColo
 
+<div class="container">
 <div class="col-lg-12">
 
  <div class="row">
@@ -131,6 +132,7 @@
    </div>
  </div>
 
+</div>
 </div>
    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003f6a&height=120&section=footer"/>
 
