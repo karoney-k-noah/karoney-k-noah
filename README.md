@@ -8,15 +8,16 @@
 
 
 <hr/>
+<p>
 
 ### Hi there 👋 I'm Karoney
 
+</p>
  </br>
-</br>
    <p>
       A Fullstack Software Developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with interest in Dev-Ops and Security.
    </p>
-
+<br/>
 
 <!-- -->
 
