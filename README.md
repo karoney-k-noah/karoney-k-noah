@@ -27,11 +27,12 @@
     <th>Streak</th>
   </tr>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=gonewithharshwinds&layout=compact&show_icons=true&theme=tokyonight" alt="Harsh's github stats"></td>
-    <td><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gonewithharshwinds&layout=compact&theme=tokyonight" alt="GitHub Streak"></a></td>
+    <td><img src="https://github-readme-stats-k4xr.vercel.app/api?username=karoney-k-noah&show_icons=true&bg_color=80,f0cd7b,f1ce7d,f5e58d,f4e892,81613a,f2cf7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true" width="100%"/>
+    </td>
+    <td><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-vercel-zeta.vercel.app/?user=karoney-k-noah&theme=default&hide_border=true&dates=664b2b&sideLabels=664b2b&border=f0cd7b&stroke=664c2b&ring=664c2b&fire=664b2b&currStreakNum=664c2b&sideNums=664c2b&currStreakLabel=664c2b&background=f0cd7b" width="100%"/></a></td>
   </tr>
   <tr>
-    <td colspan="3" align="center"><img src="https://profile-counter.glitch.me/{gonewithharshwinds}/count.svg" alt="Visitor Count (01/01/20 onwards)"></td>
+    <td colspan="3" align="center"><img src="https://profile-counter.glitch.me/{karoney-k-noah}/count.svg" alt="Visitor Count (01/01/20 onwards)"></td>
   </tr>
 </table>
 
@@ -162,11 +163,7 @@
 
 </td>
    </tr>
-  <tr>
-    <td colspan="2" align="center">
-      Recent activity charts<img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.habits.charts.svg" alt=""></img>
-    </td>
-  </tr>
+
 </table>
 <!-- Activity graph -->
 
