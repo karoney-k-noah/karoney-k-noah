@@ -6,10 +6,8 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003f6a&height=120&section=header"/>
 
-![red line](https://via.placeholder.com/600x2/FF0000/FF0000)
 
-<hr style="height:4px; background:purple; border:none; margin: 1em 0;">
-<hr style="height:2px; border:none; background-color:#3498db;" />
+<hr/>
 ### Hi there 👋 I'm Karoney
  </br>
 </br>
