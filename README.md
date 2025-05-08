@@ -8,7 +8,7 @@
 
 <div align="left">
   <a width="100%">
-    <img src="https://img.shields.io/badge/</>%10K%10A%10R%10O%10N%10E%10Y%10%10|%10K%10|%10%10N%10O%10A%10H%10</>-ffffff?style=for-the-badge&logoColor=black" width="100%" alt="||K4R0N3Y||">
+    <img src="https://img.shields.io/badge/</>%20K%20A%20R%20O%20N%20E%20Y%20%20|%20K%20|%20%20N%20O%20A%20H%20</>-ffffff?logoColor=black" width="100%" alt="||K4R0N3Y||">
   </a>
 </div>
 
