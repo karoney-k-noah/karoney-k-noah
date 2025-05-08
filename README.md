@@ -49,12 +49,12 @@
 
 <h3> 
 
-> ##### _Databases_ &nbsp; 
+> ##### *Databases* &nbsp; 
 
 </h3>
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
+![MySQL][#MySQL] 
+![MongoDB][#MongoDB] 
 
 <h3> 
 
@@ -102,10 +102,10 @@
 [#Flask]:         https://img.shields.io/badge/flask-%23000.svg?logo=flask&logoColor=white&color=330066
 [#React]:         https://img.shields.io/badge/-React-000000?logo=react&logoColor=61DAFB
 [#Bootstrap]:     https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white
-<!--
+
 [#MySQL]:         https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white
 [#MongoDB]:       https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white
--->
+
 
 <!-- Cloud Hosting | System | Network | Administration -->
 
