@@ -134,12 +134,12 @@
    <tr>
       <td>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karoney-k-noah&theme=dark" 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karoney-k-noah&theme=dark)
 
 </td>
 <td>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=karoney-k-noah&theme=dark&utcOffset=8" 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=karoney-k-noah&theme=dark&utcOffset=8)
 
 </td>
 </tr>
