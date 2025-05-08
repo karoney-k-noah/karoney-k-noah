@@ -36,7 +36,7 @@
 
 <h3> 
 
-> ##### _Framework | Libraries | Databases_ &nbsp; 
+> ##### _Framework | Libraries_ &nbsp; 
 
 </h3>
 
@@ -45,8 +45,7 @@
 ![Flask][#Flask]
 ![React][#React]
 ![Bootstrap][#Bootstrap]
-![MySQL][#MySQL] 
-![MongoDB][#MongoDB] 
+
 
 <h3> 
 
