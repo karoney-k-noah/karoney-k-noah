@@ -164,9 +164,7 @@
    </tr>
   <tr>
     <td colspan="2" align="center">
-      <details open><summary>Recent activity charts</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.habits.charts.svg" alt=""></img></details>
-      <details open><summary>Mildly interesting facts</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.habits.facts.svg" alt=""></img></details>
-      <img width="900" height="1" alt="">
+      Recent activity charts<img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.habits.charts.svg" alt=""></img>
     </td>
   </tr>
 </table>
