@@ -24,15 +24,13 @@
 
 </h3>
 
-![Python][#Python] ![Java][#Java] ![C++][#C++] ![C][#C] ![Bash][#Bash] ![JavaScript][#JS]
+![Python][#Python]
+![Java][#Java] 
+![C++][#C++]
+![C][#C]
+![Bash][#Bash]
+![JavaScript][#JS]
 
-<!-- Programming Languages -->
-[#Python]:        https://img.shields.io/badge/python-3670A0?logo=python&logoColor=FFFF00
-[#Java]:          https://img.shields.io/badge/java-%2327ff.svg?logo=openjdk&logoColor=white&color=FF8000
-[#C++]:           https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white
-[#C]:             https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white
-[#Bash]:          https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&logoWidth=25&
-[#JS]:            https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=FFFF00&color=grey
 
 <h3> 
 
@@ -40,7 +38,41 @@
 
 </h3>
 
-![Django][#Django] ![Spring][#Spring] ![Flask][#Flask] ![React][#React] ![Bootstrap][#Bootstrap]
+![Django][#Django]
+![Spring][#Spring]
+![Flask][#Flask]
+![React][#React]
+![Bootstrap][#Bootstrap]
+
+<h3> 
+
+> ##### _Database | Cloud Hosting | System | Network | Administration_ &nbsp; 
+
+</h3>
+
+![MySQL][#MySQL] 
+![MongoDB][#MongoDB] 
+![Firebase][#Firebase] 
+![Nginx][#Nginx] 
+![Docker][#Docker] 
+![Kubernetes][#Kubernetes] 
+![AWS][#AWS] 
+![WireShark][#Wireshark] 
+![Ansible][#Ansible]
+
+<!-- Programming Languages -->
+<a href="#">
+
+[#Python]:        https://img.shields.io/badge/python-3670A0?logo=python&logoColor=FFFF00
+[#Java]:          https://img.shields.io/badge/java-%2327ff.svg?logo=openjdk&logoColor=white&color=FF8000
+[#C++]:           https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white
+[#C]:             https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white
+[#Bash]:          https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&logoWidth=25&
+[#JS]:            https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=FFFF00&color=grey
+
+
+<!-- Framework | Libraries-->
+
 
 [#Django]:        https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white
 [#Spring]:        https://img.shields.io/badge/spring-%236DB33F.svg?logo=spring&logoColor=white
@@ -49,17 +81,6 @@
 [#Bootstrap]:     https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white
 
 
-
-<h3> 
-
-> ##### _Database | Cloud Hosting | System | Network | Administration_ &nbsp; 
-
-
-![MySQL][#MySQL] 
-![MongoDB][#MongoDB] 
-![Firebase][#Firebase] 
-![Nginx][#Nginx] 
-![Docker][#Docker] ![Kubernetes][#Kurbenetes] ![AWS][#AWS] ![WireShark][#Wireshark] ![Ansible][#Ansible]
 
 [#MySQL]:         https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white
 [#MongoDB]:       https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white
@@ -70,7 +91,7 @@
 [#AWS]:           https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white
 [#WireShark]:     https://img.shields.io/badge/Wireshark-1679A7?logo=Wireshark&logoColor=white
 [#Ansible]:       https://img.shields.io/badge/Ansible-000000?logo=ansible&logoColor=white
-
+</a>
 <!-- Activity graph -->
 
 [![Karoney's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=karoney-k-noah&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
