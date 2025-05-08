@@ -1,6 +1,12 @@
 <meta name="description" content="GitHub profile in blue color">
 <meta name="keywords" content="Full Stack Developer, GitHub Stats, GitHub Profile, JavaScript, TypeScript, React, Nodejs, HTML5, CSS3, Bootstrap, Python, C#, C++, C, Java, PHP, PostgreSQL, MySQL, MongoDB"/>
 
+<style>
+  .icon-link:hover {
+    opacity: 0;  /* Hides the icon when hovering over it */
+  }
+</style>
+
 <div style="display: inline_block" align="left">
 
 
@@ -20,7 +26,7 @@
     <td width="60%">
 
 
-<h3> 
+<h3 class="icon-link"> 
 
 > ##### *Languages* &nbsp; 
 
@@ -34,7 +40,7 @@
 ![JavaScript][#JS]
 
 
-<h3> 
+<h3 class="icon-link"> 
 
 > ##### *Framework | Libraries* &nbsp; 
 
@@ -46,7 +52,7 @@
 ![React][#React]
 ![Bootstrap][#Bootstrap]
 
-<h3>
+<h3 class="icon-link">
 
 > ##### *Databases*  
 
@@ -54,7 +60,7 @@
 
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white" alt="MySQL">
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" alt="MongoDB">
-<h3> 
+<h3 class="icon-link"> 
 
 > ##### *Databases* &nbsp; 
 
@@ -63,7 +69,7 @@
 ![MySQL][#MySQL] 
 ![MongoDB][#MongoDB] 
 
-<h3> 
+<h3 class="icon-link"> 
 
 > ##### *Cloud Services* &nbsp; 
 
@@ -77,7 +83,7 @@
 ![AWS][#AWS] 
 ![Apache][#Apache]
 
-<h3> 
+<h3 class="icon-link"> 
 
 > ##### *System | Network | Administration* &nbsp; 
 
@@ -133,7 +139,7 @@
 </td>
 <td width="40%">
 
-<h3> 
+<h3 class="icon-link"> 
 
 > ##### *Stats [Dynamimc]* &nbsp; 
 
