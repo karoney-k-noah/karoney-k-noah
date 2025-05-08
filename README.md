@@ -22,7 +22,7 @@
 
 <h3> 
 
-> ##### _Languages_ &nbsp; 
+> ##### *Languages* &nbsp; 
 
 </h3>
 
@@ -36,7 +36,7 @@
 
 <h3> 
 
-> ##### _Framework | Libraries_ &nbsp; 
+> ##### *Framework | Libraries* &nbsp; 
 
 </h3>
 
@@ -49,7 +49,7 @@
 
 <h3> 
 
-> ##### *Databases* &nbsp; 
+<em>Databases</em>&nbsp;
 
 </h3>
 
@@ -58,7 +58,7 @@
 
 <h3> 
 
-> ##### _Cloud Services_ &nbsp; 
+> ##### *Cloud Services* &nbsp; 
 
 </h3>
 
@@ -72,7 +72,7 @@
 
 <h3> 
 
-> ##### _System | Network | Administration_ &nbsp; 
+> ##### *System | Network | Administration* &nbsp; 
 
 </h3>
 
@@ -128,7 +128,7 @@
 
 <h3> 
 
-> ##### _Stats [Dynamimc]_ &nbsp; 
+> ##### *Stats [Dynamimc]* &nbsp; 
 
 </h3>
 
