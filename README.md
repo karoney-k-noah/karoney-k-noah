@@ -107,14 +107,12 @@
 
 <hr>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=karoney-k-noah&bg_color=ffffff&color=008000&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
-
 
 <!-- Activity graph -->
 
 [![Karoney's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=karoney-k-noah&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
    
-
+<hr>
    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003f6a&height=120&section=footer"/>
 
 </div>
