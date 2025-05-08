@@ -1,13 +1,13 @@
 <meta name="description" content="GitHub profile in blue color">
 <meta name="keywords" content="Full Stack Developer, GitHub Stats, GitHub Profile, JavaScript, TypeScript, React, Nodejs, HTML5, CSS3, Bootstrap, Python, C#, C++, C, Java, PHP, PostgreSQL, MySQL, MongoDB"/>
-
 <style>
-  .icon-link:hover {
-    opacity: 0;  /* Hides the icon when hovering over it */
+   h3:hover {
+   cursor: pointer;
+   opacity: 0;
   }
 </style>
 
-<div style="display: inline_block" align="left">
+<div style="display: inline_block"  align="left">
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003f6a&height=120&section=header"/>
@@ -26,7 +26,7 @@
     <td width="60%">
 
 
-<h3 class="icon-link"> 
+<h3> 
 
 > ##### *Languages* &nbsp; 
 
