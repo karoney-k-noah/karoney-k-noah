@@ -3,14 +3,18 @@
 
 <div style="display: inline_block"  align="left">
 
-
+<card>
+   <p>
+      A fullstack software Engineer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with interest in Dev-Ops and Security.
+   </p>
+</card>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003f6a&height=120&section=header"/>
 
    <br>
 
 
 
-<!-- A fullstack software Engineer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with interest in Dev-Ops and Security.-->
+<!-- -->
 
 
 
@@ -135,7 +139,7 @@
 
 <p> 
 
-> ##### *Stats [Dynamic]* &nbsp; 
+> ##### *Achievement Stats* &nbsp; 
 
 </p>
 
