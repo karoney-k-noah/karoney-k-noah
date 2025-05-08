@@ -3,9 +3,8 @@
 
 <div style="display: inline_block" align="left">
 
-![Header](https://readme-typing-svg.herokuapp.com?section=header&type=waving&height=120&color=gradient&gradientFrom=003f6a&gradientTo=0066a1&text=Hi%20there!%20%F0%9F%91%8B%20I%20am%20Karoney&fontSize=48&fontAlignY=35&desc=A%20a%20Full%20Software%20stack%20developer&descAlignY=55&descAlign=62)
 
-<img alt="Hi there! I am Karoney" src="https://capsule-render.vercel.app/api?section=header&type=waving&height=120&color=gradient&text=Hi%20there!%20%F0%9F%91%8B%20I%20am%20Karoney&fontSize=48&fontAlignY=35&desc=A%20a%20Full%20Software%20stack%20developer&descAlignY=55&descAlign=62"
+<img alt="Hi there! I am Karoney" src="https://capsule-render.vercel.app/api?section=header&type=waving&height=120&color=003f6a&text=Hi%20there!%20%F0%9F%91%8B%20I%20am%20Karoney&fontSize=24&fontAlignY=35&desc=A%20a%20Full%20Software%20stack%20developer&descAlignY=55&descAlign=62"
        style="width: 100%">
    <!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003f6a&height=120&section=header"/>-->
 
