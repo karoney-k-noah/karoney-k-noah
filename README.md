@@ -20,11 +20,11 @@
     <td width="60%">
 
 
-<h3 style="display: none;"> 
+<p> 
 
 > ##### *Languages* &nbsp; 
 
-</h3>
+</p>
 
 ![Python][#Python]
 ![Java][#Java] 
@@ -34,11 +34,11 @@
 ![JavaScript][#JS]
 
 
-<h3 style="display: none;"> 
+<p> 
 
 > ##### *Framework | Libraries* &nbsp; 
 
-</h3>
+</p>
 
 ![Django][#Django]
 ![Spring][#Spring]
@@ -46,28 +46,28 @@
 ![React][#React]
 ![Bootstrap][#Bootstrap]
 
-<h3 style="display: none;">
+<p>
 
 > ##### *Databases*  
 
-</h3>
+</p>
 
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white" alt="MySQL">
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" alt="MongoDB">
-<h3 style="display: none;"> 
+<p> 
 
 > ##### *Databases* &nbsp; 
 
-</h3>
+</p>
 
 ![MySQL][#MySQL] 
 ![MongoDB][#MongoDB] 
 
-<h3 style="display: none;"> 
+<p> 
 
 > ##### *Cloud Services* &nbsp; 
 
-</h3>
+</p>
 
 
 ![Firebase][#Firebase] 
@@ -77,11 +77,11 @@
 ![AWS][#AWS] 
 ![Apache][#Apache]
 
-<h3 style="display: none;"> 
+<p> 
 
 > ##### *System | Network | Administration* &nbsp; 
 
-</h3>
+</p>
 
 ![WireShark][#Wireshark] 
 ![Ansible][#Ansible]
@@ -133,11 +133,11 @@
 </td>
 <td width="40%">
 
-<h3 style="display: none;"> 
+<p> 
 
 > ##### *Stats [Dynamic]* &nbsp; 
 
-</h3>
+</p>
 
 
 <img src="https://github-readme-streak-stats-vercel-zeta.vercel.app/?user=karoney-k-noah&theme=default&hide_border=true&dates=664b2b&sideLabels=664b2b&border=f0cd7b&stroke=664c2b&ring=664c2b&fire=664b2b&currStreakNum=664c2b&sideNums=664c2b&currStreakLabel=664c2b&background=f0cd7b" width="100%"/>
