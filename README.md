@@ -17,7 +17,7 @@
 <table width="100%" >
 
  <tr>
-    <td width="65%">
+    <td width="55%">
 
 
 <h3> 
@@ -123,18 +123,18 @@
 
 
 </td>
-<td width="35%">
+<td>
 <img src="https://github-readme-streak-stats-vercel-zeta.vercel.app/?user=karoney-k-noah&theme=default&hide_border=true&dates=664b2b&sideLabels=664b2b&border=f0cd7b&stroke=664c2b&ring=664c2b&fire=664b2b&currStreakNum=664c2b&sideNums=664c2b&currStreakLabel=664c2b&background=f0cd7b" width="100%" height="150" align="right"/>
 
 
 
-![](https://github-readme-stats-k4xr.vercel.app/api?username=karoney-k-noah&show_icons=true&bg_color=80,f0cd7b,f1ce7d,f5e58d,f4e892,81613a,f2cf7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true)
+<img src="https://github-readme-stats-k4xr.vercel.app/api?username=karoney-k-noah&show_icons=true&bg_color=80,f0cd7b,f1ce7d,f5e58d,f4e892,81613a,f2cf7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true" width="100%" height="150" align="right"/>
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karoney-k-noah&theme=dark)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karoney-k-noah&theme=dark" width="100%" height="150" align="right"/>
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=karoney-k-noah&theme=dark&utcOffset=8)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=karoney-k-noah&theme=dark&utcOffset=8" width="100%" height="150" align="right"/>
 
 </td>
    </tr>
