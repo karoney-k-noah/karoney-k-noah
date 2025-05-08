@@ -24,7 +24,7 @@
 
 </h3>
 
-![Python][#Python]![Java][#Java] ![C++][#C++] ![C][#C] ![Bash][#Bash] ![JavaScript][#JS]
+![Python][#Python] ![Java][#Java] ![C++][#C++] ![C][#C] ![Bash][#Bash] ![JavaScript][#JS]
 
 <!-- Programming Languages -->
 [#Python]:        https://img.shields.io/badge/python-3670A0?logo=python&logoColor=FFFF00
@@ -50,20 +50,26 @@
 
 
 
+<h3> 
 
-<h3 align='left'>
-  ☁️ Database | Cloud Hosting | System | Network | Administration
-</h3>
+> ##### _Database | Cloud Hosting | System | Network | Administration_ &nbsp; 
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/-firebase-F05032?logo=firebase&logoColor=black&)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?logo=nginx&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)
-![WireShark](https://img.shields.io/badge/Wireshark-1679A7?logo=Wireshark&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-000000?logo=ansible&logoColor=white)
+
+![MySQL][#MySQL] 
+![MongoDB][#MongoDB] 
+![Firebase][#Firebase] 
+![Nginx][#Nginx] 
+![Docker][#Docker] ![Kubernetes][#Kurbenetes] ![AWS][#AWS] ![WireShark][#Wireshark] ![Ansible][#Ansible]
+
+[#MySQL]:         https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white)
+[#MongoDB]:       https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
+[#Firebase]:      https://img.shields.io/badge/-firebase-F05032?logo=firebase&logoColor=black&)
+[#Nginx]:         https://img.shields.io/badge/nginx-%23009639.svg?logo=nginx&logoColor=white)
+[#Docker]:        https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)
+[#Kubernetes]:    https://img.shields.io/badge/kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white)
+[#AWS]:           https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)
+[#WireShark]:     https://img.shields.io/badge/Wireshark-1679A7?logo=Wireshark&logoColor=white)
+[#Ansible]:       https://img.shields.io/badge/Ansible-000000?logo=ansible&logoColor=white)
 
 <!-- Activity graph -->
 
