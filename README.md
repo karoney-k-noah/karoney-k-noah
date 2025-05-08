@@ -2,8 +2,9 @@
 <meta name="keywords" content="Full Stack Developer, GitHub Stats, GitHub Profile, JavaScript, TypeScript, React, Nodejs, HTML5, CSS3, Bootstrap, Python, C#, C++, C, Java, PHP, PostgreSQL, MySQL, MongoDB"/>
 
 <div style="display: inline_block" align="left">
-
-   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003f6a&height=120&section=header"/>
+<img alt="Hi there! I am Karoney" src="https://capsule-render.vercel.app/api?section=header&type=waving&height=200&color=gradient&text=Hi%20there!%20%F0%9F%91%8B%20I%20am%20Karoney&fontSize=48&fontAlignY=35&desc=A%20a%20Full%20Software%20stack%20developer&descAlignY=55&descAlign=62"
+       style="width: 100%">
+   <!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003f6a&height=120&section=header"/>-->
 
    <br>
 
