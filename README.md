@@ -46,10 +46,17 @@
 ![React][#React]
 ![Bootstrap][#Bootstrap]
 
+<h3>
 
+> ##### *Databases*  
+
+</h3>
+
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" alt="MongoDB">
 <h3> 
 
-<em>Databases</em>&nbsp;
+> ##### *Databases* &nbsp; 
 
 </h3>
 
