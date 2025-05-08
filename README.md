@@ -10,6 +10,8 @@
 
    <p align='left'>
 
+<!-- A fullstack software Engineer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with interest in Dev-Ops and Security.-->
+
 ![](https://komarev.com/ghpvc/?username=karoney-k-noah&style=flat&color=F1cc7b)
 
 <img src="https://github-readme-streak-stats-vercel-zeta.vercel.app/?user=karoney-k-noah&theme=default&hide_border=true&dates=664b2b&sideLabels=664b2b&border=f0cd7b&stroke=664c2b&ring=664c2b&fire=664b2b&currStreakNum=664c2b&sideNums=664c2b&currStreakLabel=664c2b&background=f0cd7b" height="150" alt="streaks graph">
@@ -34,7 +36,7 @@
 
 <h3> 
 
-> ##### _Framework | Libraries_ &nbsp; 
+> ##### _Framework | Libraries | Databases_ &nbsp; 
 
 </h3>
 
@@ -43,15 +45,16 @@
 ![Flask][#Flask]
 ![React][#React]
 ![Bootstrap][#Bootstrap]
+![MySQL][#MySQL] 
+![MongoDB][#MongoDB] 
 
 <h3> 
 
-> ##### _Database | Cloud Hosting | System | Network | Administration_ &nbsp; 
+> ##### _Cloud Hosting | System | Network | Administration_ &nbsp; 
 
 </h3>
 
-![MySQL][#MySQL] 
-![MongoDB][#MongoDB] 
+
 ![Firebase][#Firebase] 
 ![Nginx][#Nginx] 
 ![Docker][#Docker] 
@@ -59,12 +62,11 @@
 ![AWS][#AWS] 
 ![WireShark][#Wireshark] 
 ![Ansible][#Ansible]
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&labelColor=0F1689)
-![Argo CD](https://img.shields.io/badge/Argo-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColo)
+![Terraform][#Terraform]
+![Prometheus][#Prometheus]
+![Grafana][#Grafana]
+![Apache][#Apache]
+
 <!-- Programming Languages -->
 
 
@@ -76,7 +78,7 @@
 [#JS]:            https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=FFFF00&color=grey
 
 
-<!-- Framework | Libraries-->
+<!-- Framework | Libraries | Databases -->
 
 
 [#Django]:        https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white
@@ -84,11 +86,13 @@
 [#Flask]:         https://img.shields.io/badge/flask-%23000.svg?logo=flask&logoColor=white&color=330066
 [#React]:         https://img.shields.io/badge/-React-000000?logo=react&logoColor=61DAFB
 [#Bootstrap]:     https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white
-
-
-
 [#MySQL]:         https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white
 [#MongoDB]:       https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white
+
+
+<!-- Cloud Hosting | System | Network | Administration -->
+
+
 [#Firebase]:      https://img.shields.io/badge/-firebase-F05032?logo=firebase&logoColor=black&
 [#Nginx]:         https://img.shields.io/badge/nginx-%23009639.svg?logo=nginx&logoColor=white
 [#Docker]:        https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white
@@ -96,6 +100,10 @@
 [#AWS]:           https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white
 [#WireShark]:     https://img.shields.io/badge/Wireshark-1679A7?logo=Wireshark&logoColor=white
 [#Ansible]:       https://img.shields.io/badge/Ansible-000000?logo=ansible&logoColor=white
+[#Terraform]:     https://img.shields.io/badge/terraform-%235835CC.svg?logo=terraform&logoColor=white
+[#Prometheus]:    https://img.shields.io/badge/Prometheus-E6522C?logo=Prometheus&logoColor=white
+[#Grafana]:       https://img.shields.io/badge/grafana-%23F46800.svg?logo=grafana&logoColor=white
+[#Apache]:        https://img.shields.io/badge/apache-%23D42029.svg?logo=apache&logoColo
 
 
 
