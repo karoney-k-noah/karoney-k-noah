@@ -6,11 +6,6 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003f6a&height=120&section=header"/>
 
-<div align="left">
-  <a width="100%">
-    <img src="https://img.shields.io/badge/</>%20K%20A%20R%20O%20N%20E%20Y%20%20|%20K%20|%20%20N%20O%20A%20H%20</>-ffffff?logoColor=black" width="100%" alt="||K4R0N3Y||">
-  </a>
-</div>
 
 <hr/>
 <p>
@@ -26,6 +21,19 @@
 
 <!-- -->
 
+<table align="center">
+  <tr>
+    <th>Github Statistics</th>
+    <th>Streak</th>
+  </tr>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=gonewithharshwinds&layout=compact&show_icons=true&theme=tokyonight" alt="Harsh's github stats"></td>
+    <td><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gonewithharshwinds&layout=compact&theme=tokyonight" alt="GitHub Streak"></a></td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center"><img src="https://profile-counter.glitch.me/{gonewithharshwinds}/count.svg" alt="Visitor Count (01/01/20 onwards)"></td>
+  </tr>
+</table>
 
 
 <table width="100%" >
