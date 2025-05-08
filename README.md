@@ -53,8 +53,8 @@
 
 </h3>
 
-![MySQL][#MySQL] 
-![MongoDB][#MongoDB] 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
 
 <h3> 
 
@@ -102,9 +102,10 @@
 [#Flask]:         https://img.shields.io/badge/flask-%23000.svg?logo=flask&logoColor=white&color=330066
 [#React]:         https://img.shields.io/badge/-React-000000?logo=react&logoColor=61DAFB
 [#Bootstrap]:     https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white
+<!--
 [#MySQL]:         https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white
 [#MongoDB]:       https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white
-
+-->
 
 <!-- Cloud Hosting | System | Network | Administration -->
 
@@ -125,7 +126,12 @@
 </td>
 <td width="40%">
 
-## 📄📜 _Stats_ [Dynamic]
+<h3> 
+
+> ##### _Stats [Dynamimc]_ &nbsp; 
+
+</h3>
+
 
 <img src="https://github-readme-streak-stats-vercel-zeta.vercel.app/?user=karoney-k-noah&theme=default&hide_border=true&dates=664b2b&sideLabels=664b2b&border=f0cd7b&stroke=664c2b&ring=664c2b&fire=664b2b&currStreakNum=664c2b&sideNums=664c2b&currStreakLabel=664c2b&background=f0cd7b" width="100%"/>
 
