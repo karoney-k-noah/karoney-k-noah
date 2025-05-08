@@ -12,6 +12,15 @@
 
 <!-- A fullstack software Engineer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with interest in Dev-Ops and Security.-->
 
+
+
+<table width="100%" >
+
+ <tr>
+    <td width="60%">
+
+   <img src="https://github-readme-streak-stats-vercel-zeta.vercel.app/?user=karoney-k-noah&theme=default&hide_border=true&dates=664b2b&sideLabels=664b2b&border=f0cd7b&stroke=664c2b&ring=664c2b&fire=664b2b&currStreakNum=664c2b&sideNums=664c2b&currStreakLabel=664c2b&background=f0cd7b" height="150" alt="streaks graph">
+
 <h3> 
 
 > ##### _Languages_ &nbsp; 
@@ -97,45 +106,25 @@
 [#Grafana]:       https://img.shields.io/badge/grafana-%23F46800.svg?logo=grafana&logoColor=white
 [#Apache]:        https://img.shields.io/badge/apache-%23D42029.svg?logo=apache&logoColo
 
-<div class="container">
-<div class="col-lg-12">
+</td>
+<td>
 
- <div class="row">
-   <div class="col-sm-12">
-    <div class="col-sm-6">
 
-   <img src="https://github-readme-streak-stats-vercel-zeta.vercel.app/?user=karoney-k-noah&theme=default&hide_border=true&dates=664b2b&sideLabels=664b2b&border=f0cd7b&stroke=664c2b&ring=664c2b&fire=664b2b&currStreakNum=664c2b&sideNums=664c2b&currStreakLabel=664c2b&background=f0cd7b" height="150" alt="streaks graph">
-
-   </div>
-   <div class="col-sm-6">
 <img src="https://github-readme-stats-k4xr.vercel.app/api?username=karoney-k-noah&show_icons=true&bg_color=80,f0cd7b,f1ce7d,f5e58d,f4e892,81613a,f2cf7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true" height="150" alt="stats graph">
-   </div>
-</div>
- </div>
 
-<div class="row">
-
-<!-- Activity graph -->
-<div class="col-lg-12">
-
-[![Karoney's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=karoney-k-noah&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
-</div>
- <div class="row">
-    <div class="col-sm-6">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karoney-k-noah&theme=dark)
 
-   </div>
-   <div class="col-sm-6">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=karoney-k-noah&theme=dark&utcOffset=8)
 
-   </div>
- </div>
+</td>
+   </tr>
+</table>
+<!-- Activity graph -->
 
-</div>
-</div>
+[![Karoney's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=karoney-k-noah&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003f6a&height=120&section=footer"/>
 
 </div>
