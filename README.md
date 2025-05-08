@@ -18,7 +18,12 @@
 
    </p>
 
-> ##### _Languages_ ![Python][#Python] ![Java][#Java] ![C++][#C++] ![C][#C] ![Bash][#Bash] ![JavaScript][#JS]
+<h3> 
+
+> ##### _Languages_ &nbsp; 
+</h3>
+
+![Python][#Python] ![Java][#Java] ![C++][#C++] ![C][#C] ![Bash][#Bash] ![JavaScript][#JS]
 
 <!-- Programming Languages -->
 [#Python]:        https://img.shields.io/badge/python-3670A0?logo=python&logoColor=FFFF00
