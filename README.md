@@ -105,7 +105,7 @@
    <img src="https://github-readme-streak-stats-vercel-zeta.vercel.app/?user=karoney-k-noah&theme=default&hide_border=true&dates=664b2b&sideLabels=664b2b&border=f0cd7b&stroke=664c2b&ring=664c2b&fire=664b2b&currStreakNum=664c2b&sideNums=664c2b&currStreakLabel=664c2b&background=f0cd7b" height="150" alt="streaks graph">
 
    </td>
-   <td>
+   <td width="50%">
 <img src="https://github-readme-stats-k4xr.vercel.app/api?username=karoney-k-noah&show_icons=true&bg_color=80,f0cd7b,f1ce7d,f5e58d,f4e892,81613a,f2cf7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true" height="150" alt="stats graph">
    </td>
  </tr>
@@ -123,7 +123,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karoney-k-noah&theme=dark)
 </td>
-<td>
+<td width="50%">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=karoney-k-noah&theme=dark&utcOffset=8)
 
