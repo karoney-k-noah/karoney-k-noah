@@ -4,6 +4,7 @@
    h3:hover {
    cursor: pointer;
    opacity: 0;
+   display: none;
   }
 </style>
 
