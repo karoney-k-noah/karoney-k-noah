@@ -111,8 +111,10 @@
 <!-- Activity graph -->
 
 [![Karoney's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=karoney-k-noah&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karoney-k-noah&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=karoney-k-noah&theme=dark&utcOffset=8)
    
-<hr>
    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003f6a&height=120&section=footer"/>
 
 </div>
