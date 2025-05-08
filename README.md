@@ -105,6 +105,9 @@
 [#Grafana]:       https://img.shields.io/badge/grafana-%23F46800.svg?logo=grafana&logoColor=white
 [#Apache]:        https://img.shields.io/badge/apache-%23D42029.svg?logo=apache&logoColo
 
+<hr>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karoney-k-noah&bg_color=ffffff&color=008000&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 
 
 <!-- Activity graph -->
