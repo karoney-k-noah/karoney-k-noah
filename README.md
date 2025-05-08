@@ -6,9 +6,9 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003f6a&height=120&section=header"/>
 
-
-<hr>
-  ### Hi there 👋 I'm Karoney
+<hr style="height:4px; background:purple; border:none; margin: 1em 0;">
+<hr style="height:2px; border:none; background-color:#3498db;" />
+### Hi there 👋 I'm Karoney
  </br>
 </br>
    <p>
