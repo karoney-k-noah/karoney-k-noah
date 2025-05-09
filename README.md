@@ -152,8 +152,6 @@
 
 </p>
 <img src="https://profile-counter.glitch.me/{karoney-k-noah}/count.svg" alt="Visitor Count (01/01/20 onwards)">
-
-<img src="https://github-readme-stats.vercel.app/api?username=karoney-k-noah&show_icons=true&theme=radical">
 </td>
    </tr>
 
