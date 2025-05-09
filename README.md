@@ -15,7 +15,7 @@
 </p>
  </br>
    <p>
-      A Fullstack Software Developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with interest in Dev-Ops and Security.
+     A Junior Full Stack Developer passionate about crafting clean robust, *functional* and scalable web and android applications. Skilled in both front-end and back-end technologies, with interest in Dev-Ops,Security,System and Network Administration.
    </p>
 <br/>
 
