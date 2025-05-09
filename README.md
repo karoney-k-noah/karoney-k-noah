@@ -146,7 +146,15 @@
 
 <img src="https://github-readme-stats-k4xr.vercel.app/api?username=karoney-k-noah&show_icons=true&bg_color=80,f0cd7b,f1ce7d,f5e58d,f4e892,81613a,f2cf7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true" width="100%"/>
 
+<p> 
+
+> ##### *Visitor Count* &nbsp; 
+
+</p>
 <img src="https://profile-counter.glitch.me/{karoney-k-noah}/count.svg" alt="Visitor Count (01/01/20 onwards)">
+![Visitor Count](https://profile-counter.glitch.me/karoney-k-noah/count.svg)
+
+<!-- ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harsh2201&show_icons=true&theme=radical)  -->
 </td>
    </tr>
 
@@ -158,11 +166,7 @@
 <!--
 [![Karoney's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=karoney-k-noah&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -->
-<p> 
 
-> ##### *Visitor Count* &nbsp; 
-
-</p>
    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003f6a&height=120&section=footer"/>
 
 
