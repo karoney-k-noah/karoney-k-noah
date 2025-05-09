@@ -152,9 +152,8 @@
 
 </p>
 <img src="https://profile-counter.glitch.me/{karoney-k-noah}/count.svg" alt="Visitor Count (01/01/20 onwards)">
-![Visitor Count](https://profile-counter.glitch.me/karoney-k-noah/count.svg)
 
-<!-- ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harsh2201&show_icons=true&theme=radical)  -->
+<img src="https://github-readme-stats.vercel.app/api?username=karoney-k-noah&show_icons=true&theme=radical">
 </td>
    </tr>
 
