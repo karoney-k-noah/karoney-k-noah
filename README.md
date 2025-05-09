@@ -15,7 +15,8 @@
 </p>
  </br>
    <p>
-     A Junior Full Stack Developer passionate about crafting clean robust, *functional* and scalable web and android applications. Skilled in both front-end and back-end technologies, with interest in Dev-Ops,Security,System and Network Administration.
+     A Junior Full Stack Developer passionate about crafting clean robust, functional and scalable web and android applications.<br/>
+     Skilled in both front-end and back-end technologies, with interest in Dev-Ops,Security,System and Network Administration.
    </p>
 <br/>
 
